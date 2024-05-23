@@ -1,0 +1,183 @@
+body,h1 {font-family: "Raleway", Arial, sans-serif}
+h1 {letter-spacing: 6px}
+.w3-row-padding img {margin-bottom: 12px}
+header{
+    background-color: rgb(212, 201, 187);
+}
+
+p{ 
+    text-align: justify;
+    margin: 30PX;
+    color: rgb(0, 0, 0);
+}
+
+li{
+    text-align:start;
+    margin: 50px;
+    color: rgb(0, 0, 0);
+}
+/* Estilos para las columnas */
+.columna {
+    width: 30%; /* Ancho de cada columna */
+    margin: 0 15px; /* Margen horizontal de 30px */
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+/* Estilos para las imágenes */
+.columna img {
+    max-width: 99%;
+    height: auto;
+    display:block;
+    margin: 0 auto; /* Centrar horizontalmente */
+
+}
+
+/* Estilos para el texto */
+.columna p {
+    text-align:center;
+    margin: 30px 0; /* Margen superior e inferior de 30px */
+}
+
+ /* Estilos para el formulario */
+ form {
+    max-width: 400px;
+    margin:  auto;
+   
+}
+
+/* Estilos para los campos de entrada */
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para el botón de envío */
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h2{
+    text-align: center;
+}
+
+arrow-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.arrow-button:hover {
+    background-color: #0056b3;
+}
+
+
+img{  max-width: 100%;
+    height: auto;}
+
+b{ 
+    text-align: justify;
+}
+
+h5{
+    max-width: 100%;
+    margin: 30px;
+    text-align:center;
+    font-size:medium;
+}
+
+h6{ 
+    max-width: 100%;
+    margin: 30px;
+    text-align:center;
+    font-size:small;
+}
+
+h4{
+    max-width: 100%;
+    margin: 1%;
+    text-align:center
+}
+
+h3{
+    max-width: 100%;
+    margin: 30px;
+}
+
+table{
+    margin: 4%;
+    border-spacing: 10px; 
+}
+
+a{
+    color: rgb(7, 21, 166);
+}
+
+tr{
+    margin: 10px;
+
+}
+
+td{
+    margin-bottom: 10%;
+}
+
+table{ 
+    margin:30px /* Centrar la tabla horizontalmente */
+}
+
+
+
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+} 
+
+ul {
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+
+  ul li {
+    margin: 5px;
+    padding-bottom: 5px;
+  }
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 18px; /* Adjust the gap value to control the space between icons */
+}
+.social-icons a {
+    color: #0b24a2;
+    text-decoration: none;
+    font-size: 24px;
+}
+.social-icons a:hover {
+    color: #ddd;
+}
