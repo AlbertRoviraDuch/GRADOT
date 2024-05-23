@@ -1,5 +1,5 @@
 # LLEGIU-ME
-Un repositori per publicar la meva primera pàgina web. Aquesta pàgina web es troba publicada a [GRADOT](https://albertroviraduch.github.io/gradot1/).
+Un repositori per publicar la meva primera pàgina web. Aquesta pàgina web es troba publicada a [GRADOT](https://albertroviraduch.github.io/GRADOT/).
 
 ## Tema i motivació
 En el marc de l'assignatura de Eines Web, Producció i Disseny cartogràfic s'ha tingut d'elaborar una pàgina web per tal de complir els obejctius de l'assignatura. La meva pàgina web s'anomena GRADOT (Grup de Recerca d'Anàlisis de Dinàmiques D'ordenació Territorial). He fet la pàgina web d'aquest tema perquè durant el transcurs de la carrera una de les temàtiques que mès m'ha agrdat és la dedicada a temes d'ordenació i desenvolupament territorial focalitzant en la zona del la província de Tarragona ja que és la més propera a aquesta Facultat de Turisme i Geografia de la Universitat Rovira Virgili (URV).  
