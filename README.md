@@ -11,9 +11,12 @@ La idea de realitzar GRADOT, bé de prendre de referència el Grup de Recerca GR
 - El text ha sigut inscrit per inspiració própia. 
 - Les imatges s'han extret d'internet moltes d'elles a continuació veiem les diferents fonts. 
   1. A l'apartat del header, a cada apartat trobem una imatge diferent
-     - A l'apartat de Inici, trobem una imatgede la Facultat de Turisme i Geografia extreta del portal web de l'URV.
-     - A l'apartat de Membres, trobem 
-  3. A la pàgina de membres trobem una imatge de cada membre.
+     - A l'apartat de Inici, trobem una imatge de la Facultat de Turisme i Geografia extreta del portal web de l'URV.
+     - A l'apartat de Membres, trobem una imatge de la Facultat de Turisme i Geografia extreta del portal web de l'URV.
+     - A l'apartat de Projectes, trobem una imatge de la ciutat de Tarragona extreta de l'Ajuntament de Tarragona.
+     - A l'apartat del Mapa, trobem una imatge de la Facultat de Turisme i Geografia extreta de la pàgina web de GRATET.
+     - A l'apartat de Contacte, trobem una imatge de Falset extreta de l'Ajuntament del propi municipi 
+  2. A la pàgina de membres trobem una imatge de cada membre.
      - El primer membre l'imatge (Nacho García) s'ha extret del portal web de l'Ajuntament de Tarragona
      - La imatge del membre Sergi Centelles s'ha extret del pinterest
      - La imatge del membre Aaron, ha estat extreta del seu perfil de la xarxa social X
