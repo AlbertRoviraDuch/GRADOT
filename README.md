@@ -28,7 +28,7 @@ La idea de realitzar GRADOT, bé de prendre de referència el Grup de Recerca GR
 ## Estructura de la Web. 
 L’estructura de la pàgina web, és molt senzilla compta amb 5 grans pàgines: Inici, Membres, Projectes, Mapa i Contacte. S'ha de dir que el layout principal de la pàgina web l'he exret de un w3Css templates. 
 
-**Aquests apartats, juntament amb el titol GRADOT i una imatge amb un fons de color gris clar conformen el Header. Aquest Header és repeteix pels 5 aparts. La imatge de si fem click sobre ella ens porta a la pàgina d’inici.** 
+Aquests apartats, juntament amb el titol GRADOT i una imatge amb un fons de color gris clar conformen el Header. Aquest Header és repeteix pels 5 aparts. La imatge de si fem click sobre ella ens porta a la pàgina d’inici.
 
 A baix de tot de cada apartat he posat un peu de pàgina o footer amb fotos del logo de les principals xarxes socials i si fem click ens porta a la pàgina d’inici d’aquestes xarxes. També he col·locat un boto que s'anomena Tornar a dalt que si clickem sobre ell ens retorna al capdavant de la pàgina. 
 
